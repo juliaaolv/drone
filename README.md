@@ -1,1 +1,1 @@
-# drone
+Apresento a vocês o AETHERIS X1, um projeto criado para apresentar um drone futurista desenvolvido para atuar em cenários complexos. Este é um projeto pessoal focado em explorar tecnologia, inovação e design futurista através de uma experiência web imersiva. 
