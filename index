@@ -59,7 +59,7 @@
         <div class="hero-visual" data-aos="fade-left">
           <div class="hero-orb"></div>  
           <div class="drone-visual-card">       
-            <img class="drone-image" src="drone.png" alt="Ilustração conceitual do drone futurista Aetheris X1" />
+            <img class="drone-image" src="imagens/drone.png" alt="Ilustração conceitual do drone futurista Aetheris X1" />
           </div>
         </div>
       </section>
